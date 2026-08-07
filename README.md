@@ -1,4 +1,17 @@
+
+<!-- ========================================================= -->
+
+<!-- CASSIOJUBIS // DEVELOPER SYSTEM -->
+
+<!-- ========================================================= -->
+
+
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:071A2B,100:00E5FF&text=CASSIOJUBIS&fontColor=00E5FF&fontSize=55&fontAlignY=38&desc=DEVELOPER%20SYSTEM%20%2F%2F%20FULL%20STACK%20IN%20PROGRESS&descAlignY=60&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+SYSTEM+INITIALIZING...;%3E+Loading+Developer+Profile...;%3E+Loading+Projects...;%3E+Connecting+GitHub...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+Full+Stack+Developer+in+Progress" />
+
+<br>
 
 # 👋 Olá, eu sou Cássio
 
@@ -14,15 +27,15 @@ Construindo projetos, aprendendo novas tecnologias e evoluindo um commit de cada
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor em formação, com foco em **desenvolvimento Full Stack**.
+Sou Técnico em informatica e desenvolvedor em formação, com foco em **desenvolvimento Full Stack** e aprender coisas novas.
 
-Atualmente venho desenvolvendo projetos acadêmicos e pessoais para aprimorar meus conhecimentos em desenvolvimento web, programação orientada a objetos e bancos de dados.
+Atualmente venho praticando e desenvolvendo projetos acadêmicos e pessoais para aprimorar minha logica de programação e meus conhecimentos em desenvolvimento web, programação orientada a objetos, bancos de dados e automação.
 
 - 💻 Foco em desenvolvimento Web
 - ☕ Estudando Java e Programação Orientada a Objetos
 - 🗄️ Aprimorando conhecimentos em MySQL e SQL
 - 🚀 Construindo projetos para meu portfólio
-- 📚 Sempre buscando aprender e evoluir
+- 📚 Sempre buscando conhecimento,aprendizado e evolução
 
 ---
 
@@ -94,7 +107,7 @@ Projeto web desenvolvido como parte da evolução do meu portfólio e experiênc
 
 ### 🎨 Portfólio para Tatuador
 
-Modelo de portfólio desenvolvido para apresentar profissionalmente o trabalho de um tatuador.
+ portfólio desenvolvido para apresentar profissionalmente o trabalho de um  taduador da minha cidade
 
 **Tecnologias:** HTML • CSS • JavaScript
 
